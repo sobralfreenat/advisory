@@ -9,3 +9,8 @@ https://www.supersaas.com.br/schedule/freenatgroup/ADVISORY?view=free
 https://github.com/sobralfreenat/webpresentation
 
 https://www.canva.com/design/DAENb8AOW5c/azFMiirWX-eRuI-ES5qRsg/edit#
+
+
+SESSIONS:
+
+https://fnw.bubbleapps.io/version-test
