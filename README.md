@@ -13,4 +13,8 @@ https://www.canva.com/design/DAENb8AOW5c/azFMiirWX-eRuI-ES5qRsg/edit#
 
 SESSIONS:
 
+https://fnwmobile.bubbleapps.io/version-test?debug_mode=true
+
 https://fnw.bubbleapps.io/version-test
+
+
